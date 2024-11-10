@@ -1,6 +1,6 @@
 # 🍂 Nikita Goltsev
 
-**` Craftsman (Developer/Filmmaker/Creator)`**
+**` Craftsman (Developer/CyberSec/Unity/DeepLearning)`**
 
 I am a cybersecurity professional with in-depth knowledge of data protection, network security, and vulnerability analysis. In addition, I have significant experience in software development, especially in the field of creating games on the Unity platform and using the C# and .NET programming languages. I am also actively involved in deep learning research and development using various Python libraries such as TensorFlow, PyTorch and Keras.
 
