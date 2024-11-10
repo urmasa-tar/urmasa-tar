@@ -2,25 +2,21 @@
 
 **` Craftsman (Developer/Filmmaker/Creator)`**
 
-Я специалист по кибербезопасности, обладающий глубокими знаниями в области защиты данных, сетевой безопасности и анализа уязвимостей. Помимо этого, у меня есть значительный опыт разработки программного обеспечения, особенно в сфере создания игр на платформе Unity и использовании языков программирования C# и .NET. Я также активно занимаюсь исследованиями и разработкой в области глубокого обучения, используя различные библиотеки Python, такие как TensorFlow, PyTorch и Keras.
+I am a cybersecurity professional with in-depth knowledge of data protection, network security, and vulnerability analysis. In addition, I have significant experience in software development, especially in the field of creating games on the Unity platform and using the C# and .NET programming languages. I am also actively involved in deep learning research and development using various Python libraries such as TensorFlow, PyTorch and Keras.
 
-Основные компетенции:
-Кибербезопасность: Проведение аудитов информационной безопасности, анализ угроз и уязвимостей, разработка мер по защите данных и систем.
-Разработка игр на Unity: Создание игровых механик, программирование логики игры, интеграция различных API и библиотек.
-C# и .NET: Разработка серверных приложений, работа с базами данных, создание высоконагруженных систем.
-Машинное обучение и Deep Learning: Разработка моделей нейронных сетей, их обучение и тестирование, использование передовых библиотек Python.
-Опыт работы:
-Участие в проектах по созданию безопасных веб-приложений и мобильных игр.
-Разработка и внедрение систем мониторинга и обнаружения вторжений.
-Работа над проектами в области компьютерного зрения и обработки естественного языка.
-Образование:
-Магистр информационных технологий и кибербезопасности.
-Курсы по машинному обучению и искусственному интеллекту.
-Личные качества:
-Аналитический склад ума.
-Умение работать в команде и самостоятельно.
-Постоянное стремление к саморазвитию и освоению новых технологий.
-Готов делиться своими знаниями и опытом, а также принимать участие в интересных и сложных проектах. 
+Core competencies:
+Cybersecurity: Conducting information security audits, analyzing threats and vulnerabilities, developing measures to protect data and systems.
+Game development in Unity: Creating game mechanics, programming game logic, integrating various APIs and libraries.
+C# and .NET: Development of server applications, working with databases, creating high-load systems.
+Machine learning and Deep Learning: Development of neural network models, their training and testing, use of advanced Python libraries.
+Experience:
+Participation in projects to create secure web applications and mobile games.
+Development and implementation of monitoring and intrusion detection systems.
+Work on projects in the field of computer vision and natural language processing.
+Education:
+Bachelor of Information Systems and Technologies 2026
+Courses on machine learning and artificial intelligence.
+
 <!-- 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
